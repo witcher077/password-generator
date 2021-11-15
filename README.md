@@ -1,1 +1,1 @@
-# password-generator  Using Html , Css , JS .  : - (NEWTON SCHOOL)
+# password-generator  Using Html , Css and JS .  : - (NEWTON SCHOOL)
