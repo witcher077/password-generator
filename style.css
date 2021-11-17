@@ -14,6 +14,8 @@ body {
     padding: 10px;
     min-height: 100vh;
     background-image: url(images.jfif);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 p {
@@ -37,6 +39,7 @@ input[type=checkbox] {
     max-width: 100%;
     border-radius: 20px;
     color: #fae8e8;
+    
 }
 
 .result-container {
