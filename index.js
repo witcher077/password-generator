@@ -6,7 +6,7 @@ const numbersEl = document.getElementById('numbers');
 const symbolsEl = document.getElementById('symbols');
 const generateEl = document.getElementById('generate');
 const clipboard = document.getElementById('clipboard');
-const selectLen = document.getElementById('slectlength')
+const selectLen = document.getElementById('selectlength')
 
 const randomFunc = {
     lower: getRandomLower,
